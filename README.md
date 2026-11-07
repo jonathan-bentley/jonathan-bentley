@@ -15,7 +15,7 @@ Welcome to my IT portfolio! This page showcases hands-on technical projects as I
 
 ### Featured Projects
 
-**1. Windows Server & Network Administration — A&J Market**
+**1. [Windows Server & Network Administration — A&J Market](https://github.com/jonathan-bentley/windows-server-network-administration)**
 
 Hands-on lab building and administering a Windows Server environment in Microsoft Azure. Includes Active Directory, user account management, security policies, DNS, and network file sharing.
 
